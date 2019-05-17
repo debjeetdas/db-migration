@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "TodoList": 5
+  },
+  "models": {
+    "TodoList": {
+      "1": "{\"title\":\"Take over the galaxy\",\"color\":\"red\",\"id\":1}",
+      "2": "{\"title\":\"Take over the galaxy\",\"color\":\"red\",\"id\":2}",
+      "3": "{\"title\":\"Take over the galaxy\",\"color\":\"red\",\"id\":3}",
+      "4": "{\"title\":\"Take over the galaxy\",\"color\":\"red\",\"id\":4}"
+    }
+  }
+}

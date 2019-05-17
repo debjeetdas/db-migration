@@ -1,0 +1,21 @@
+{
+  "name": "db",
+  "connector": "mysql",
+  "url": "mysql://root:password@localhost/db_migration",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "password",
+  "database": "db_migration",
+  "ids": {
+    "TodoList": 5
+  },
+  "models": {
+    "TodoList": {
+      "1": "{\"title\":\"Take over the galaxy\",\"color\":\"red\",\"id\":1}",
+      "2": "{\"title\":\"Take overq the galaxy\",\"color\":\"red\",\"id\":2}",
+      "3": "{\"title\":\"Take overs the galaxy\",\"color\":\"red\",\"id\":3}",
+      "4": "{\"title\":\"Take oversdf the galaxy\",\"color\":\"red\",\"id\":4}"
+    }
+  }
+}

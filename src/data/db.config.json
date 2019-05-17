@@ -1,0 +1,7 @@
+{
+  "mysql": {
+    "database": "db_migration",
+    "user": "root",
+    "driver": "mysql"
+  }
+}

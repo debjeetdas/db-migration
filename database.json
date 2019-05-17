@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "host": "localhost",
+    "user": {
+      "ENV": "root"
+    },
+    "password": {
+      "ENV": "password"
+    },
+    "database": "db_migration",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+}
